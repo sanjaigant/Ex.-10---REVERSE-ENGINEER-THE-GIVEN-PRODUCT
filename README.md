@@ -41,8 +41,8 @@
 ![Alt text](<Screenshot 2023-12-18 195716.png>)
 
 
-### Name:Divya R V
-### Register Number:23014030
+### Name:sanjai ganth.B
+### Register Number:24006814
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
